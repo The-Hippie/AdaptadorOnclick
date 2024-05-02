@@ -16,7 +16,7 @@
             android:name=".DescriptionActivity"
             android:exported="false" />
         <activity
-            android:name=".List_Element"
+            android:name=".ListElement"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
